@@ -22,7 +22,7 @@ One of my first complete Android apps. It's a flashcard app. </br>
 
 **Tech used | 採用した言語・API・SDK・ライブラリなど**
 - Java
-- SDLite
+- SQLite
 
 
 ## [ResFinder(Android)](https://github.com/lumnaw11/Restaurant-Finder-Android)
