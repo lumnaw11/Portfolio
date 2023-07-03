@@ -5,6 +5,8 @@
 **こんにちは！モバイルアプリ開発勉強しています。今まで作ったアプリを紹介したいと思います。**
 
 ## [FlashcardMaker(Android)](https://github.com/lumnaw11/Flashcard-Maker-Android-App-SQLite)
+One of my first complete Android apps. It's a flashcard app used for studying. </br>
+勉強用単語帳アプリです。
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/122884728/216902836-6b3f11aa-3d8a-495f-a729-3550de844cb7.png", width="200"/>
