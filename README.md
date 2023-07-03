@@ -20,7 +20,7 @@ One of my first complete Android apps. It's a flashcard app. </br>
 - View cards in random order. | ランダムな順でカードの表示。
 - Add, update create, delete, or delete all cards. | 単語を追加、更新、作成、削除、または全てのカードの削除。
 
-**Tech used | 採用した言語・API・SDK・ライブラリなど**
+**Tech stack | 採用した言語・API・SDK・ライブラリなど**
 - Java
 - SQLite
 
@@ -40,7 +40,7 @@ An app where you can find restaurants near you easily.</br>
 - View search results in a list or on Google Maps. | 検索結果一覧をリストやマップで表示する。
 - View details of restaurant on click. | レストランの詳しい情報を見る。
 
-**Tech used | 採用した言語・API・SDK・ライブラリなど**
+**Tech stack | 採用した言語・API・SDK・ライブラリなど**
 - HotPepper API
 - GoogleMap SDK
 - Glide
@@ -62,6 +62,6 @@ This iOS app is a simple memo taking app that also includes a todo list option. 
 - Delete memos and todo list items. | メモやTo-doリストの削除。
 - Dark/light mode toggle. | ダーク/ライトモード
 
-**Tech used | 採用した言語・API・SDK・ライブラリなど**
+**Tech stack | 採用した言語・API・SDK・ライブラリなど**
 - SwiftUI
 - CoreData
