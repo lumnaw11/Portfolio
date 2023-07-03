@@ -56,11 +56,11 @@ This iOS app is a simple memo taking app that also includes a todo list option. 
  </p>
 
 **Features | 機能**
-- Create and save memos
-- Create and edit a todo list
-- View and edit saved memos and todo list items
-- Delete memos and todo list items
-- Dark/light mode toggle
+- Create and save memos. | メモの作成、保存。
+- Create and edit a todo list. | To-doリストの作成、保存。
+- View and edit saved memos and todo list items. |　保存したメモや To-doリストの表示、編集。
+- Delete memos and todo list items. | メモやTo-doリストの削除。
+- Dark/light mode toggle. | ダーク/ライトモード
 
 **Tech used | 採用した言語・API・SDK・ライブラリなど**
 - SwiftUI
