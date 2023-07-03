@@ -65,3 +65,6 @@ This iOS app is a simple memo taking app that also includes a todo list option. 
 **Tech stack | 採用した言語・API・SDK・ライブラリなど**
 - SwiftUI
 - CoreData
+
+## Contact | 連絡先
+22cm0145@jec.ac.jp
