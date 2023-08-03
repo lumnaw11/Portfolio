@@ -1,5 +1,4 @@
 # Portfolio
-[就活用ポートフォリオ]
 
 ### Hello! I'm a student studying mobile app development. Here are some apps I've been working on.
 **こんにちは！モバイルアプリ開発勉強しています。今まで作ったアプリを紹介したいと思います。**
