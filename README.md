@@ -65,5 +65,3 @@ This iOS app is a simple memo taking app that also includes a todo list option. 
 - SwiftUI
 - CoreData
 
-## Contact | 連絡先
-22cm0145@jec.ac.jp
